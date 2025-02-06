@@ -123,9 +123,5 @@ To access the dataset, visit the **[SlangTrack Repository](https://github.com/Af
 
 ---
 
-## 📩 Contact
 
-For any questions or further information, please contact:  
-
-📧 **Afnan Aloraini** - [afnan.aloraini@postgrad.manchester.ac.uk](mailto:afnan.aloraini@postgrad.manchester.ac.uk)
 
