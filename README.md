@@ -119,7 +119,7 @@ Some source corpora, such as **COHA, require a paid license and restrict redistr
 
 ## 📥 Download & Citation
 
-To access the dataset, visit the **[SlangTrack Repository](https://github.com/Afnan-aloraini/SlangTrack-ST)**.
+To access the dataset, visit the **[SlangTrack Repository](https://github.com/Afnan-aloraini/SlangTrack-ST-)**.
 
 ---
 ## 📩 Contact
