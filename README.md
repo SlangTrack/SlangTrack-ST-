@@ -119,5 +119,5 @@ Some source corpora, such as **COHA, require a paid license and restrict redistr
 
 ## 📥 Download & Citation
 
-To access the dataset, visit the **[SlangTrack Repository]((https://github.com/SlangTrack?tab=repositories))**.
+To access the dataset, visit the **[SlangTrack Repository] (https://github.com/SlangTrack?tab=repositories)**.
 
