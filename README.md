@@ -119,13 +119,5 @@ Some source corpora, such as **COHA, require a paid license and restrict redistr
 
 ## 📥 Download & Citation
 
-To access the dataset, visit the **[SlangTrack Repository](https://github.com/Afnan-aloraini/SlangTrack-ST-)**.
-
----
-## 📩 Contact
-
-For any questions or further information, please contact:  
-
-📧 **Afnan Aloraini** - [afnan.aloraini@postgrad.manchester.ac.uk](mailto:afnan.aloraini@postgrad.manchester.ac.uk)
-
+To access the dataset, visit the **[SlangTrack Repository](https://github.com/SlangTrack?tab=repositories))**.
 
