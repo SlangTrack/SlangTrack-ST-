@@ -66,16 +66,16 @@ The table below provides a breakdown of the total number of instances categorize
 
 | **Keyword**  | **Non-slang** | **Slang** | **Total** |
 |-------------|--------------|----------|----------|
-| BMW        | 1083         | 14        | 1097     |
-| Brownie    | 589          | 375       | 964      |
-| Chronic    | 1270         | 415       | 1685     |
-| Climber    | 514          | 128       | 642      |
-| Cucumber   | 985          | 66        | 1051     |
-| Eat        | 2710         | 322       | 3032     |
-| Germ       | 761          | 71        | 832      |
+| BMW        | 1082         | 15        | 1097     |
+| Brownie    |706           | 258       | 964      |
+| Chronic    | 1259         | 426       | 1685     |
+| Climber    | 505          | 137       | 642      |
+| Cucumber   | 978          | 73        | 1051     |
+| Eat        | 2708         | 324       | 3032     |
+| Germ       | 753          | 79        | 832      |
 | Mammy      | 904          | 166       | 1070     |
 | Rodent     | 744          | 329       | 1073     |
-| Salty      | 545          | 721       | 1266     |
+| Salty      | 535          | 731       | 1266     |
 | **Total**  | 10,105       | 2,607     | 12,712   |
 
 ---
